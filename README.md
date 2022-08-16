@@ -32,9 +32,8 @@ The code used on this page is HTML and CSS.  There is an index.html file to view
 
 The following image demonstrates the web application's appearance and functionality:
 
-  ```md
-      ![Horiseon refactored web page](./assets/images/horiseon-webpage.jpg)
-  ```
+![Horiseon refactored web page](./Develop/assets/images/horiseon-webpage.jpg)
+
 **Note**: This webpage was originally built with layout for desktop viewing. This layout was not changed in this refactoring.  Currently, the elements are not properly spaced if resolution of device has a width smaller than 768px. 
 
 ## Credits
